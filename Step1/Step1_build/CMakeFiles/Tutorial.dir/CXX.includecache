@@ -9,10 +9,12 @@
 /home/andrzej/Desktop/CMakeTutorial/CMakeTutorial/Step1/tutorial.cxx
 cmath
 -
-cstdlib
--
 iostream
 -
 string
 -
+TutorialConfig.h
+/home/andrzej/Desktop/CMakeTutorial/CMakeTutorial/Step1/TutorialConfig.h
+
+TutorialConfig.h
 
